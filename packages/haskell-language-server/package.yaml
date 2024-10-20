@@ -21,7 +21,7 @@ source:
         VERSION: "{{version}}"
       bin:
         wrapper: bin/haskell-language-server-wrapper
-        # server_9_2_8: bin/haskell-language-server-9.2.8
+        #  server_9_2_8: bin/haskell-language-server-9.2.8
         # server_9_4_8: bin/haskell-language-server-9.4.8
         # server_9_6_5: bin/haskell-language-server-9.6.5
         # server_9_8_2: bin/haskell-language-server-9.8.2
